@@ -35,7 +35,7 @@ This script requires the following packages:
 
 
 # License
-This tool is released under the MIT License. See [LICENSE](https://github.com/Kagamiie/Python-Mini-Projects/blob/77010e769264dfed1f3532b1d2b2e614eeea552a/LICENSE) file for details.
+This tool is released under the MIT License. See [LICENSE](https://github.com/Kagamiie/Python-Mini-Projects/blob/afe6d60762ad3e834578d1998c144c06be8ce26d/LICENSE) file for details.
 
 # Contributing
 Contributions are welcome! If you find any issues or have any suggestions for improvements, please submit a pull request or open an issue.
