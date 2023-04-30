@@ -48,7 +48,7 @@ This tool uses a custom encryption algorithm that is based on XOR and offset ope
 Decryption is the reverse process of encryption, where each encrypted character is XORed with the offset value, divided by the position of the character, and then XORed with the key character to produce the original character.
 
 # License
-This tool is released under the MIT License. See [LICENSE](https://github.com/Kagamiie/Python-Mini-Projects/blob/77010e769264dfed1f3532b1d2b2e614eeea552a/LICENSE) file for details.
+This tool is released under the MIT License. See [LICENSE](https://github.com/Kagamiie/Python-Mini-Projects/blob/afe6d60762ad3e834578d1998c144c06be8ce26d/LICENSE) file for details.
 
 # Contributing
 Contributions are welcome! If you find any issues or have any suggestions for improvements, please submit a pull request or open an issue.
